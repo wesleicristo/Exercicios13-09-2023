@@ -1,0 +1,7 @@
+nomeAluno = input("Digite o nome do aluno: ")
+print("Digite as notas do aluno")
+nota1 = int(input("Nota 1° bim: "))
+nota2 = int(input("Nota 2° bim: "))
+nota3 = int(input("Nota 3° bim: "))
+nota4 = int(input("Nota 4° bim: "))
+print(f"A nota final do aluno {nomeAluno} é : {(nota1+nota2+nota3+nota4)/4}")
