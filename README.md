@@ -1,2 +1,2 @@
-# Exercicios13-09-2023
-Resolução dos exercios do dia da aula.
+# Exercicios 13-09-2023
+Resolução dos exercios da aula.
